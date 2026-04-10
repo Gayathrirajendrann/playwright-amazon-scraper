@@ -1,0 +1,87 @@
+[
+    {
+        "category":"bakery",
+        "see_all_url":"https://www.amazon.in/s?i=grocery&rh=n%3A4859474031&s=popularity-rank&fs=true&ref=lp_4859474031_sar",
+        "total_pages":211
+    },
+    {
+        "category": "Breakfast Cereal",
+        "see_all_url": "https://www.amazon.in/s?i=grocery&rh=n%3A88365844031&s=popularity-rank&fs=true&ref=lp_88365844031_sar",
+        "total_pages": 381
+    },
+    {
+        "category": "Canned & Jarred Food",
+        "see_all_url": "https://www.amazon.in/s?i=grocery&rh=n%3A4859476031&s=popularity-rank&fs=true&ref=lp_4859476031_sar",
+        "total_pages": 98
+    },
+    {
+        "category": "Coffee, Tea & Beverages",
+        "see_all_url": "https://www.amazon.in/s?i=grocery&rh=n%3A4859478031&s=popularity-rank&fs=true&ref=lp_4859478031_sar",
+        "total_pages": 400
+    },
+    {
+        "category": "Cooking & Baking Supplies",
+        "see_all_url": "https://www.amazon.in/s?i=grocery&rh=n%3A4859479031&s=popularity-rank&fs=true&ref=lp_4859479031_sar",
+        "total_pages": 400
+    },
+    {
+        "category": "Dairy, Eggs & Plant-Based Alternatives",
+        "see_all_url": "https://www.amazon.in/s?i=grocery&rh=n%3A4859480031&s=popularity-rank&fs=true&ref=lp_4859480031_sar",
+        "total_pages": 93
+    },
+    {
+        "category": "Dried Fruits, Nuts & Seeds",
+        "see_all_url": "https://www.amazon.in/s?i=grocery&rh=n%3A4859481031&s=popularity-rank&fs=true&ref=lp_4859481031_sar",
+        "total_pages": 400
+    },
+    {
+        "category": "Fresh Fruits & Vegetables",
+        "see_all_url": "https://www.amazon.in/s?i=grocery&rh=n%3A4859496031&s=popularity-rank&fs=true&ref=lp_4859496031_sar",
+        "total_pages": 265
+    },
+    {
+        "category": "Frozen",
+        "see_all_url": "https://www.amazon.in/s?i=grocery&rh=n%3A4859484031&s=popularity-rank&fs=true&ref=lp_4859484031_sar",
+        "total_pages": 25
+    },
+    {
+        "category": "Hampers & Gourmet Gifts",
+        "see_all_url": "https://www.amazon.in/s?i=grocery&rh=n%3A4859485031&s=popularity-rank&fs=true&ref=lp_4859485031_sar",
+        "total_pages": 400
+    },
+    {
+        "category": "Jams, Honey & Spreads",
+        "see_all_url": "https://www.amazon.in/s?i=grocery&rh=n%3A4859489031&s=popularity-rank&fs=true&ref=lp_4859489031_sar",
+        "total_pages": 400
+    },
+    {
+        "category": "Meat, Poultry & Seafood",
+        "see_all_url": "https://www.amazon.in/s?i=grocery&rh=n%3A4859490031&s=popularity-rank&fs=true&ref=lp_4859490031_sar",
+        "total_pages": 28
+    },
+    {
+        "category": "Pasta & Noodles",
+        "see_all_url": "https://www.amazon.in/s?i=grocery&rh=n%3A4859494031&s=popularity-rank&fs=true&ref=lp_4859494031_sar",
+        "total_pages": 216
+    },
+    {
+        "category": "Pickles",
+        "see_all_url": "https://www.amazon.in/s?i=grocery&rh=n%3A4859492031&s=popularity-rank&fs=true&ref=lp_4859492031_sar",
+        "total_pages": 400
+    },
+    {
+        "category": "Ready To Eat & Cook",
+        "see_all_url": "https://www.amazon.in/s?i=grocery&rh=n%3A4859493031&s=popularity-rank&fs=true&ref=lp_4859493031_sar",
+        "total_pages": 338
+    },
+    {
+        "category": "Rice, Flour & Pulses",
+        "see_all_url": "https://www.amazon.in/s?i=grocery&rh=n%3A4859482031&s=popularity-rank&fs=true&ref=lp_4859482031_sar",
+        "total_pages": 400
+    },
+    {
+        "category": "Snacks & Sweets",
+        "see_all_url": "https://www.amazon.in/s?i=grocery&rh=n%3A27966993031&s=popularity-rank&fs=true&ref=lp_27966993031_sar",
+        "total_pages": 400
+    }
+]
